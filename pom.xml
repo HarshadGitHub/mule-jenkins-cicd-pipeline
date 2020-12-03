@@ -39,6 +39,7 @@
 					<applicationName>mule-jenkins-cicd-pipeline</applicationName>
 					<workerType>MICRO</workerType>
 					<objectStoreV2>true</objectStoreV2>
+					<muleVersion>4.3.0</muleVersion>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
