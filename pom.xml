@@ -36,7 +36,7 @@
 					<username>harshad_dec20</username>
 					<password>Apisero123</password>
 					<environment>Sandbox</environment>
-					<applicationName>mule-jenkins-cicd-pipeline</applicationName>
+					<applicationName>mule-jenkins-cicd-pipeline-demo</applicationName>
 					<workerType>MICRO</workerType>
 					<objectStoreV2>true</objectStoreV2>
 					<muleVersion>4.3.0</muleVersion>
